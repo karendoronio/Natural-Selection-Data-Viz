@@ -1,9 +1,5 @@
 # Adapting for Survival: How Different Types of Natural Selection Affect Species Populations
 
-The files in the [public](/public) directory are deployed to: https://cse442.pages.cs.washington.edu/24au/fp/mask/
-
-
-
 > This preservation of favourable variations and the rejection of injurious variations, I call Natural Selection.
 >
 > \- Charles Darwin, *On the Origin of Species*
